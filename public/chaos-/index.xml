@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chaos  on Age of Sigmar Lore</title>
+    <link>http://localhost:1313/chaos-/index.html</link>
+    <description>Recent content in Chaos  on Age of Sigmar Lore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/chaos-/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Changer of Ways</title>
+      <link>http://localhost:1313/chaos-/disciples-of-tzeentch/the-changer-of-ways/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chaos-/disciples-of-tzeentch/the-changer-of-ways/index.html</guid>
+      <description>Hey all in here you will be able to find everything about the Changers of Ways and his army.
+Lore about Tzeentch himself
+2+ tough lore explanation and playlist</description>
+    </item>
+    <item>
+      <title>Yes Yes Rats</title>
+      <link>http://localhost:1313/chaos-/skaven/yes-yes-rats/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chaos-/skaven/yes-yes-rats/index.html</guid>
+      <description>Yes Yes story about us, the rats, yes yes
+[General what are we yes yes](https://youtu.be/89DvANOiGJY?si=Ib1TwnkKz8ZlFIG2 then you can continue down the +2 tough playlist)
+1 hours of yes yes</description>
+    </item>
+  </channel>
+</rss>

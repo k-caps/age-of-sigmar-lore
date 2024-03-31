@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Death on Age of Sigmar Lore</title>
+    <link>http://localhost:1313/death/index.html</link>
+    <description>Recent content in Death on Age of Sigmar Lore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/death/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flesh eater Courts</title>
+      <link>http://localhost:1313/death/flesh-eater-courts/flesh-eater-courts/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/death/flesh-eater-courts/flesh-eater-courts/index.html</guid>
+      <description>General Flesh Eater faction lore
+The Carrion King Lore
+You should then go down the playlist by youtuber 2+ tough.
+Lore about all the courts
+3.0 version from +2 about flesh eaters</description>
+    </item>
+    <item>
+      <title>Nighthaunts</title>
+      <link>http://localhost:1313/death/nighthaunt/nighthaunts/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/death/nighthaunt/nighthaunts/index.html</guid>
+      <description>Nagash lore from fantasy and AoS</description>
+    </item>
+    <item>
+      <title>Soulblight Gravelords</title>
+      <link>http://localhost:1313/death/soulblight-gravelords/soulblight-gravelords/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/death/soulblight-gravelords/soulblight-gravelords/index.html</guid>
+      <description>Here&amp;rsquo;s where you can find lore videos about your cursed skellys:)
+General lore about the soulblights and then continue down the rabbit hole of 2+ tough</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+baseURL: 'https://age-of-sigmar-lore.nokoro.net/'
+languageCode: 'en-us'
+title: 'Age of Sigmar Lore'
+theme: 'hugo-theme-relearn'
+defaultContentLanguage: "en"
+
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+    home: [ "HTML", "RSS"]
+
+params:
+  editURL: "https://github.com/k-caps/age-of-sigmar-lore/"
+  themeVariant: blue
+  collapsibleMenu: true
+  #customMermaidURL: "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"

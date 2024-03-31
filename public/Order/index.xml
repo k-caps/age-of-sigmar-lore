@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Order on Age of Sigmar Lore</title>
+    <link>http://localhost:1313/order/index.html</link>
+    <description>Recent content in Order on Age of Sigmar Lore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/order/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fyreslaters</title>
+      <link>http://localhost:1313/order/fyreslayers/fireslayers-lore/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/order/fyreslayers/fireslayers-lore/index.html</guid>
+      <description>This is the Fyreslayer page General lore about their god
+Lore about the gold (don&amp;rsquo;t do drugs, kids!
+And as usual, don&amp;rsquo;t miss out on +2 tough&amp;rsquo;s youtube channel!</description>
+    </item>
+    <item>
+      <title>Lumineth</title>
+      <link>http://localhost:1313/order/lumineth-realm-lords/lumineth-lore/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/order/lumineth-realm-lords/lumineth-lore/index.html</guid>
+      <description>Hello everyone, in here you will be able to find shiny elf lore:
+Funny supremacy elf video
+And of course the +2 playlist</description>
+    </item>
+    <item>
+      <title>Seraphon</title>
+      <link>http://localhost:1313/order/seraphon/seraphon-lore/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/order/seraphon/seraphon-lore/index.html</guid>
+      <description>Start with this and carry on to +2 tough.
+Also here is a more specifically exact version</description>
+    </item>
+    <item>
+      <title>Sylvaneth</title>
+      <link>http://localhost:1313/order/sylvaneth/sylvaneth-lore/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/order/sylvaneth/sylvaneth-lore/index.html</guid>
+      <description>Hey guys here you can find videos summarizing Sylvaneth lore:
+General lore from +2 tough
+Of course after that video you can go down the rabbit hole of +2 toughs videos.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General Lore on Age of Sigmar Lore</title>
+    <link>http://localhost:1313/general-lore/index.html</link>
+    <description>Recent content in General Lore on Age of Sigmar Lore</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/general-lore/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Story so Far</title>
+      <link>http://localhost:1313/general-lore/the-story-so-far/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/general-lore/the-story-so-far/index.html</guid>
+      <description>For everyone who wants to understand what&amp;rsquo;s going on in the Age of Sigmar Lore!
+A half hour video which summarizes the general idea
+A 2 hour video which goes into detail about the world itself
+A Warhammer Community post which briefly explains the world of the Mortal Realms</description>
+    </item>
+    <item>
+      <title>Dawn Bringers</title>
+      <link>http://localhost:1313/general-lore/dawn-bringers/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/general-lore/dawn-bringers/index.html</guid>
+      <description>Dawnbringser crusade lore:
+The largest foothold of humanity in the mortal realms spread across the realms of life and fire
+Hammerhall lore
+Nurgle attacks hammerhall with plague (start of book one)
+what happens in aqsha side during part 1
+The scale of the crusade
+The cities of sigmar show
+More cities
+Realm of life crusade continue (tornus is here) also ironjaws with pigs!
+Casual gardus chad moment
+book 3 prologue</description>
+    </item>
+  </channel>
+</rss>
