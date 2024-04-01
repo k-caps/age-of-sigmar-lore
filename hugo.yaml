@@ -14,7 +14,7 @@ outputs:
     home: [ "HTML", "RSS"]
 
 params:
-  editURL: "https://github.com/k-caps/age-of-sigmar-lore/"
+  editURL: "https://github.com/k-caps/age-of-sigmar-lore/edit/main/content/${FilePath}"
   themeVariant: blue
   collapsibleMenu: true
   #customMermaidURL: "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
