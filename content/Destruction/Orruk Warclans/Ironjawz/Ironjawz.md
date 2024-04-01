@@ -1,5 +1,5 @@
 ---
-title: "Iironjawz"
+title: "Ironjawz"
 ---
 
 In this page, you'll find lore explaining Orruk Warclans in general, and specifically, the Ironjawz:  
